@@ -1,8 +1,7 @@
 <h1 align="center">
-  <span style="color:#00FFFF; text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF, 0 0 40px #00FFFF;">
-    🌩️ Cloud & DevOps Engineer 🌩️
-  </span>
+  <img src="https://img.shields.io/badge/🌩️_Cloud_&_DevOps_Engineer_🌩️-0e75b6?style=for-the-badge&logo=none&logoColor=white&labelColor=black&color=blueviolet">
 </h1>
+
 
 
 <p align="center">Follow me to get <b>New Updates</b> 🚀</p>
