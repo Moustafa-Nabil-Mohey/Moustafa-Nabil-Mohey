@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C0FF&center=true&vCenter=true&width=600&lines=🌩️+Moustafa+Nabil+Moheyeldeen+🌩️;Cloud+%26+DevOps+Engineer;AI+%7C+Automation+%7C+Cloud+Computing;Follow+me+for+New+Updates+🚀" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🌩️+Cloud+%26+DevOps+Engineer+🌩️" alt="Typing SVG" />
 </h1>
 
 <p align="center">Follow me to get <b>New Updates</b> 🚀</p>
@@ -16,7 +14,6 @@
   </a>
 </p>
 
-
 ---
 
 ### 🌐 Connect with Me
@@ -28,7 +25,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
 
 ---
 
@@ -55,7 +51,7 @@
 ---
 
 ### 🧠 About Me
-- 🎓 **Communication & Information Engineer** passionate about **AI, Cloud Computing & DevOPs**  
+- 🎓 **Communication & Information Engineer** passionate about **AI, Cloud Computing & DevOps**  
 - ☁️ Building scalable **Cloud Architectures** and automating pipelines using **DevOps tools**.  
 - 💡 Focused on performance, automation, and security.  
 - 🌍 Open to collaborations in **Cloud and AI** projects.  
