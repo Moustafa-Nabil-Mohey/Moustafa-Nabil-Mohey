@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://img.shields.io/badge/🌩️_Cloud_&_DevOps_Engineer_🌩️-0e75b6?style=for-the-badge&logo=none&logoColor=white&labelColor=black&color=blueviolet">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C0FF&center=true&vCenter=true&width=600&lines=🌩️+Moustafa+Nabil+Moheyeldeen+🌩️;Cloud+%26+DevOps+Engineer;AI+%7C+Automation+%7C+Cloud+Computing;Follow+me+for+New+Updates+🚀" alt="Typing SVG" />
+  </a>
 </h1>
-
-
 
 <p align="center">Follow me to get <b>New Updates</b> 🚀</p>
 
