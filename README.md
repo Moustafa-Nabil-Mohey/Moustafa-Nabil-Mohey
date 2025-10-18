@@ -1,8 +1,9 @@
 <h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C0FF&center=true&vCenter=true&width=435&lines=🌩️+Cloud+%26+DevOps+Engineer+🌩️" alt="Typing SVG" />
-  </a>
+  <span style="color:#00FFFF; text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF, 0 0 40px #00FFFF;">
+    🌩️ Cloud & DevOps Engineer 🌩️
+  </span>
 </h1>
+
 
 <p align="center">Follow me to get <b>New Updates</b> 🚀</p>
 
